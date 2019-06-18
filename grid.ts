@@ -500,6 +500,22 @@ namespace grid {
     }   // drawGrid()
 
     /**
+     * @param {Sprite} sprite - Sprite of interest.
+     * @return {number} Last-known column of sprite.
+     */
+    export function getSpriteColumn(sprite: Sprite): number {
+        return grid.getSpriteLocation(sprite).column
+    }   // getSpriteColumn()
+
+    /**
+     * @param {Sprite} sprite - Sprite of interest.
+     * @return {number} Last-known row of sprite.
+     */
+    export function getSpriteRow(sprite: Sprite): number {
+        return grid.getSpriteLocation(sprite).row
+    }   // getSpriteRow()
+
+    /**
      * Move a sprite one row down on the grid.
      * @param {Sprite} sprite - Sprite to move.
      * @param {boolean} jump - Whether to "teleport" or "slide" the sprite.
