@@ -503,6 +503,10 @@ namespace grid {
      * @param {Sprite} sprite - Sprite of interest.
      * @return {number} Last-known column of sprite.
      */
+    //% blockId="grid_getSpriteColumn"
+    //% block="sprite %sprite current column"
+    //% sprite.defl="mySprite" sprite.shadow="variables_get"
+    //% group="Sprites" weight=38
     export function getSpriteColumn(sprite: Sprite): number {
         return grid.getSpriteLocation(sprite).column
     }   // getSpriteColumn()
@@ -511,6 +515,10 @@ namespace grid {
      * @param {Sprite} sprite - Sprite of interest.
      * @return {number} Last-known row of sprite.
      */
+    //% blockId="grid_getSpriteRow"
+    //% block="sprite %sprite current row"
+    //% sprite.defl="mySprite" sprite.shadow="variables_get"
+    //% group="Sprites" weight=39
     export function getSpriteRow(sprite: Sprite): number {
         return grid.getSpriteLocation(sprite).row
     }   // getSpriteRow()
