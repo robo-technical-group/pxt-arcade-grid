@@ -1,6 +1,6 @@
 {
     "name": "pxt-arcade-grid",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
