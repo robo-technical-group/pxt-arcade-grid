@@ -1,0 +1,15 @@
+# MakeCode Arcade Grid API
+
+- [`allowWrap(boolean)`](grid.allowWrap.md)
+- [`drawGrid(Image, number)`](grid.drawGrid.md)
+- [`getSpriteColumn(Sprite)`](grid.getSpriteColumn.md)
+- [`getSpriteRow(Sprite)`](grid.getSpriteRow.md)
+- [`moveDown(Sprite, boolean)`](grid.moveDown.md)
+- [`moveLeft(Sprite, boolean)`](grid.moveLeft.md)
+- [`moveRight(Sprite, boolean)`](grid.moveRight.md)
+- [`moveUp(Sprite, boolean)`](grid.moveUp.md)
+- [`setColRange(number, number)`](grid.setColRange.md)
+- [`setRowRange(number, number)`](grid.setRowRange.md)
+- [`setSize(number, number)`](grid.setSize.md)
+- [`setSpriteLocation(Sprite, number, number)`](grid.setSpriteLocation.md)
+- [`setSpriteVelocity(number)`](grid.setSpriteVelocity.md)
