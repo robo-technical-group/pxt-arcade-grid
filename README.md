@@ -4,6 +4,8 @@ Extension that divides the display into a grid. Blocks and JavaScript interfaces
 
 [![Build Status](https://travis-ci.com/robo-technical-group/pxt-arcade-grid.svg?branch=master)](https://travis-ci.com/robo-technical-group/pxt-arcade-grid)
 
+[Link to API documentation](https://github.com/robo-technical-group/pxt-arcade-grid/blob/master/api.md)
+
 ## TODO
 
 - [X] See a preliminary version in action here: https://makecode.com/_Lq9dz2h8Ccf6
