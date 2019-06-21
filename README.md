@@ -1,8 +1,8 @@
 # MakeCode Arcade Grid Extension
 
-Extension that divides the display into a grid. Blocks and JavaScript interfaces available.
-
 [![Build Status](https://travis-ci.com/robo-technical-group/pxt-arcade-grid.svg?branch=master)](https://travis-ci.com/robo-technical-group/pxt-arcade-grid)
+
+Extension that divides the display into a grid. Blocks and JavaScript interfaces available.
 
 [Link to API documentation](https://github.com/robo-technical-group/pxt-arcade-grid/blob/master/api.md)
 
